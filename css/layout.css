@@ -18,7 +18,7 @@
 #header{
 position: relative;
 z-index: 501; /*(issues/769)*/
-width:200%;
+width:100%;
 background: transparent;
 }
 
